@@ -1,27 +1,35 @@
 [submodule "ros2_ws/src/can"]
 	path = ros2_ws/src/can
-	url = git@github.com:Geicar-Marcycle/can.git
+	url = https://github.com/Geicar-Marcycle/can.git
+	branch = main
 [submodule "ros2_ws/src/car_control"]
 	path = ros2_ws/src/car_control
-	url = git@github.com:Geicar-Marcycle/car_control.git
+	url = https://github.com/Geicar-Marcycle/car_control.git
+	branch = main
 [submodule "ros2_ws/src/carla_msgs"]
 	path = ros2_ws/src/carla_msgs
-	url = git@github.com:Geicar-Marcycle/carla_msgs.git
+	url = https://github.com/Geicar-Marcycle/carla_msgs.git
+	branch = main
 [submodule "ros2_ws/src/geicar_start"]
 	path = ros2_ws/src/geicar_start
-	url = git@github.com:Geicar-Marcycle/geicar_start.git
+	url = https://github.com/Geicar-Marcycle/geicar_start.git
+	branch = main
 [submodule "ros2_ws/src/imu_tools"]
 	path = ros2_ws/src/imu_tools
-	url = git@github.com:Geicar-Marcycle/imu_tools.git
+	url = https://github.com/Geicar-Marcycle/imu_tools.git
 [submodule "ros2_ws/src/interfaces"]
 	path = ros2_ws/src/interfaces
-	url = git@github.com:Geicar-Marcycle/py-interfaces.git
+	url = https://github.com/Geicar-Marcycle/py-interfaces.git
+	branch = main
 [submodule "ros2_ws/src/joystick"]
 	path = ros2_ws/src/joystick
-	url = git@github.com:Geicar-Marcycle/joystick.git
+	url = https://github.com/Geicar-Marcycle/joystick.git
+	branch = main
 [submodule "ros2_ws/src/simulation"]
 	path = ros2_ws/src/simulation
-	url = git@github.com:Geicar-Marcycle/simulation.git
+	url = https://github.com/Geicar-Marcycle/simulation.git
+	branch = main
 [submodule "ros2_ws/src/system_check"]
 	path = ros2_ws/src/system_check
-	url = git@github.com:Geicar-Marcycle/system_check.git
+	url = https://github.com/Geicar-Marcycle/system_check.git
+	branch = main
